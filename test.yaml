@@ -1,0 +1,7 @@
+---
+- name: USS Enterprise
+  registry: NCC-1701
+- name: USS Constitution
+  registry: NCC-1700
+- name: USS Defiant
+  registry: NCC-74656
